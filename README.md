@@ -1,4 +1,4 @@
-CryptoClustering/Unsupervised Machine Learning
+**CryptoClustering/Unsupervised Machine Learning
 
 
 For Module 19 challenge,we used Python and unsupervised learning to predict if crytocurrencies are affected by 24 hour or 7 day price change.
